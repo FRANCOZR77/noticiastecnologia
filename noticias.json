@@ -1,0 +1,40 @@
+{
+    "noticias": [
+      {
+        "titulo": "Nueva IA revoluciona el mundo",
+        "descripcion": "Una nueva inteligencia artificial está cambiando la industria tecnológica.",
+        "categoria": "Inteligencia Artificial",
+        "fecha_publicacion": "28 de febrero de 2025",
+        "enlace": "https://technews.com/ia-revolucion",
+        "etiquetas": ["IA", "Innovación", "Futuro"],
+        "comentarios": [
+          {
+            "nombre": "Juan",
+            "comentario": "¡Increíble avance!",
+            "fecha": "27 de febrero de 2025"
+          },
+          {
+            "nombre": "María",
+            "comentario": "Quiero saber más.",
+            "fecha": "28 de febrero de 2025"
+          }
+        ]
+      },
+      {
+        "titulo": "Apple lanza su nuevo iPhone 16",
+        "descripcion": "El iPhone 16 trae nuevas funciones y mejoras en la cámara.",
+        "categoria": "Móviles",
+        "fecha_publicacion": "1 de marzo de 2025",
+        "enlace": "https://technews.com/iphone16",
+        "etiquetas": ["Apple", "iPhone", "Móviles"],
+        "comentarios": [
+          {
+            "nombre": "Carlos",
+            "comentario": "No puedo esperar a probarlo.",
+            "fecha": "1 de marzo de 2025"
+          }
+        ]
+      }
+    ]
+  }
+  
